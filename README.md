@@ -43,6 +43,10 @@ Ce guide explique étape par étape comment installer les programmes requis pour
 
    ```
 
+launch avec coordonnées de medicine hat:
+   ```bash
+./Tools/autotest/sim_vehicle.py -v ArduCopter -f quad --console --map -l 50.097361,110.735778,0,0
+   ```
 
 
 ### 👉 Exemple de commandes utiles
