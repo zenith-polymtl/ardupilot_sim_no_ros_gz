@@ -51,7 +51,10 @@ launch avec coordonnées de medicine hat:
 
 ### 👉 Exemple de commandes utiles
 
-
+Augmenter la vitesse de simulation à 2x le temps réel
+   ```bash
+set param SIM_SPEEDUP 2
+   ```
 
 ### 👉 Exemple de contrôle du drone via Mavproxy
 Cette exemple va vous permette de voir votre quadcopter décoller, faire des cercles et revenir à son point de départ.
