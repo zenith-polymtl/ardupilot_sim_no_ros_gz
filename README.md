@@ -57,7 +57,7 @@ param set SIM_SPEEDUP 2
    ```
 Changer la capacité de la battery à 20000 mAh
    ```bash
-param set BATT_CAPACITY 5000
+param set BATT_CAPACITY 20000
    ```
 
 ### 👉 Exemple de contrôle du drone via Mavproxy
