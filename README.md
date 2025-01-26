@@ -53,7 +53,7 @@ launch avec coordonnées de medicine hat:
 
 Augmenter la vitesse de simulation à 2x le temps réel
    ```bash
-set param SIM_SPEEDUP 2
+param set SIM_SPEEDUP 2
    ```
 
 ### 👉 Exemple de contrôle du drone via Mavproxy
