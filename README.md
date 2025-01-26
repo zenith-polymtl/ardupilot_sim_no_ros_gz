@@ -55,6 +55,10 @@ Augmenter la vitesse de simulation à 2x le temps réel
    ```bash
 param set SIM_SPEEDUP 2
    ```
+Changer la capacité de la battery à 20000 mAh
+   ```bash
+param set BATT_CAPACITY 5000
+   ```
 
 ### 👉 Exemple de contrôle du drone via Mavproxy
 Cette exemple va vous permette de voir votre quadcopter décoller, faire des cercles et revenir à son point de départ.
